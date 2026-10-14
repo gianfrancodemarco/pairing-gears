@@ -1,0 +1,15 @@
+{
+  "name": "pairing-gears",
+  "description": "Pairing Gears: step-by-step coding guidance with adjustable assistance levels.",
+  "owner": {
+    "name": "Gianfranco Demarco",
+    "url": "https://github.com/gianfrancodemarco"
+  },
+  "plugins": [
+    {
+      "name": "pairing-gears",
+      "source": "./",
+      "description": "Step-by-step coding guidance with adjustable assistance levels from 1 (Socratic hints) to 5 (full implementation)."
+    }
+  ]
+}

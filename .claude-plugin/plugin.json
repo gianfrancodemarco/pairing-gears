@@ -1,0 +1,13 @@
+{
+  "name": "pairing-gears",
+  "description": "Step-by-step coding guidance with adjustable assistance levels from 1 (Socratic hints) to 5 (full implementation).",
+  "version": "1.0.0",
+  "author": {
+    "name": "Gianfranco Demarco",
+    "url": "https://github.com/gianfrancodemarco"
+  },
+  "homepage": "https://github.com/gianfrancodemarco/pairing-gears",
+  "repository": "https://github.com/gianfrancodemarco/pairing-gears",
+  "license": "MIT",
+  "keywords": ["agent-skills", "pair-programming", "learning", "coaching"]
+}
