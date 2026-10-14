@@ -9,7 +9,7 @@
     {
       "name": "pairing-gears",
       "source": "./",
-      "description": "Step-by-step coding guidance with adjustable assistance levels from 1 (Socratic hints) to 5 (full implementation)."
+      "description": "Learn by doing: step-by-step coding guidance with assistance levels from 1 (Socratic hints) to 5 (full implementation). For onboarding to unfamiliar codebases and low-AI practice days."
     }
   ]
 }

@@ -1,8 +1,16 @@
 # Pairing Gears
 
-An [Agent Skill](https://agentskills.io) that guides you through coding tasks one step at a time. You choose how much help you get, from Socratic hints to a full implementation, so you keep the reasoning you want to do yourself.
+An [Agent Skill](https://agentskills.io) that makes your coding agent guide you instead of doing the work for you. You choose how much help you get, from a single Socratic hint to a full implementation, and the agent goes one step at a time while you write the code.
 
 Works with Claude Code, Cursor, GitHub Copilot, Codex and any other agent that reads `SKILL.md` skills.
+
+## Who it's for
+
+**Engineers learning a codebase they don't know.** Asking an agent to explain a repo gives you a summary you forget by tomorrow. Having it make the change gives you a diff you don't understand. At level 2 the agent points you to the right file and decision, explains why it matters, and lets you trace the flow and make the change yourself. This works for experienced engineers joining a new team as well as for juniors. You learn the codebase by working in it, with a guide.
+
+**Engineers who mostly code with AI and want to keep their skills sharp.** If your team runs a "No-AI Friday" or you set aside your own low-AI time, Pairing Gears gives you a middle ground. At level 1 the agent only asks questions and gives conceptual hints: no code, no commands, no file locations. At level 2 it navigates but never writes code. You do the reasoning and the typing, and still get unstuck faster than you would alone.
+
+**Anyone learning to program**, who wants a patient reviewer rather than an answer machine.
 
 ## Install
 
@@ -50,6 +58,8 @@ The same bug, "the cart total is wrong when a discount code is applied", at thre
 
 To use it, say things like:
 
+- "I'm new to this repo. Use level 2 so I learn how requests flow while I fix this."
+- "It's No-AI Friday: level 1, don't write any code for me."
 - "Guide me through this at level 1."
 - "Use Pairing Gears level 2; I want to write the code."
 - "Increase to level 4 for this failing test."

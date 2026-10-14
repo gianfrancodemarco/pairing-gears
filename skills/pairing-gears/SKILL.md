@@ -1,6 +1,6 @@
 ---
 name: pairing-gears
-description: Guides software development one step at a time with configurable assistance levels from 1 to 5. Use when the user asks to be guided, coached, taught, paired with, helped step by step, allowed to implement the solution themselves, or asks what to do next during a coding task.
+description: Guides software development one step at a time with configurable assistance levels from 1 to 5. Use when the user asks to be guided, coached, taught, paired with, helped step by step, allowed to implement the solution themselves, or asks what to do next during a coding task. Also use when the user wants to learn an unfamiliar codebase by working in it, or wants to code with minimal AI help to keep their skills sharp (for example a "no-AI day").
 ---
 
 # Pairing Gears
@@ -74,3 +74,5 @@ Do not continue into commits, pushes, or pull requests unless requested.
 - “Use Pairing Gears level 2; I want to write the code.”
 - “Increase to level 4 for this failing test.”
 - “Do this part for me, then go back to level 2.”
+- “I’m new to this repo. Use level 2 so I learn how requests flow while I fix this.”
+- “It’s No-AI Friday: level 1, don’t write any code for me.”
